@@ -4,7 +4,7 @@ import reactRefresh from '@vitejs/plugin-react-refresh'
 export default defineConfig({
 
   // ↓↓↓ change to logLevel: 'info' ↓↓↓
-  logLevel: 'warn',
+  logLevel: 'info',
   // ↑↑↑ change to logLevel: 'info' ↑↑↑
 
 
